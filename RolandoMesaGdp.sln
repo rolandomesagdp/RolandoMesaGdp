@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolandoMesaGdp.Api", "RolandoMesaGdp.Api\RolandoMesaGdp.Api.csproj", "{43E7C600-8286-4D5B-A0C1-7A9FD89BEC18}"
 EndProject

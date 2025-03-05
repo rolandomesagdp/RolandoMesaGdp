@@ -1,0 +1,8 @@
+﻿services:
+  rolamdomesa-gdp-api:
+    build:
+      context: .
+      dockerfile: ./RolandoMesaGdp.Api/Dockerfile
+    image: rolandomesagdp-api:latest
+    ports:
+    - 32771:8080
