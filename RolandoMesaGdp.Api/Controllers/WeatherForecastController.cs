@@ -46,7 +46,7 @@ public class WeatherForecastController : ControllerBase
             {
                 Date = DateOnly.FromDateTime(DateTime.Now),
                 TemperatureC = 20,
-                Summary = "Hotty Potty"
+                Summary = "Hot"
             }
         };
     return list;
